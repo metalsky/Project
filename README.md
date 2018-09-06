@@ -2,7 +2,7 @@
 
 Welcome to MultiP4 procjet homepage! 
 
-The MultiP4 project is research and developement project that aims to develop core technologies for programmable data planes to support multi-service networking. Five teams of Korea University and POSTECH are leading this project with the support of Korea Institute of Information and Communications Technology (IITP) grant funded by the Korea government(MSIT). 
+The MultiP4 project is research and developement project that aims to develop core technologies for programmable data planes to support multi-service networking. Five teams from Korea University, POSTECH and Yonsei University are leading this project with the support of Korea Institute of Information and Communications Technology (IITP) grant funded by the Korea government(MSIT). 
 
 The topics covered in this project are: (please refer to attached links for more information about each topic!)
 
