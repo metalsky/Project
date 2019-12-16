@@ -8,20 +8,23 @@ The topics covered in this project are: (please refer to attached links for more
 
 1. Programmable switch machine model for multi-service networking
  
-    link: https://github.com/multip4/MultiSwitch
- 
+    github link: https://github.com/multip4/MultiSwitch
+    technical report link(korean) : https://docs.google.com/document/d/1MCsgQFqRpue-Bu31KtI47X-lR4tBaEdzWicaWio5pso/edit
+
 2. Compiler for newly designed models and P4 language extensions
 
-    link: https://github.com/multip4/MultiCompiler
-
+    github link: https://github.com/multip4/MultiCompiler
+    technical report link(korean) : https://docs.google.com/document/d/1Dd22cyE9dyMN_6rDQcpB77p1PZCBBettf38H4I_JZ0Y/edit
+    
 3. Programmable switch-based SFC for multi-service network architecture design
    
-   link: https://github.com/multip4/MultiSFC
-
+   github link: https://github.com/multip4/MultiSFC
+   technical report link(korean) : https://docs.google.com/document/d/17qE4BrCnfmawXLBX1sD4jhpKj41Y1gbY_VENGTvawSc/edit
+   
 4. INT-based network monitoring and management through interworking with SDN controller
 
-   link: https://github.com/multip4/MultiINT
-   
+   github link: https://github.com/multip4/MultiINT
+   technical report link(korean) : https://docs.google.com/document/d/1Ani2VKckCaycCHYzyzhaw4zlDhG9PzOEiYMBE2_uXV0/edit
    
    
 
